@@ -2,7 +2,8 @@
  
 I made a project with Api endpoints on https://restful-booker.herokuapp.com/apidoc/index.html.
 
-(https://user-images.githubusercontent.com/21973124/210185119-8b2f41e0-c679-4127-abb1-77187b3e0e89.png)
+![motpro](https://user-images.githubusercontent.com/21973124/210185154-4ce030a6-32b5-41c7-9925-e2b607d3f4d8.png)
+
     
 ## Used technologies
 
