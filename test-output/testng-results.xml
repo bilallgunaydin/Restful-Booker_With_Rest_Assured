@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-01T23:23:14 TRT" name="All Test Suite" finished-at="2023-01-01T23:23:39 TRT" duration-ms="25008">
+    <groups>
+    </groups>
+    <test started-at="2023-01-01T23:23:14 TRT" name="C:/Users/Bilal/IdeaProjects/Restful-Booker_With_Rest_Assured/src/test/java/test" finished-at="2023-01-01T23:23:39 TRT" duration-ms="25008">
+      <class name="test.API_Post_Request">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.API_Post_Request@6107227e]" started-at="2023-01-01T23:23:37 TRT" name="setUp" finished-at="2023-01-01T23:23:37 TRT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createBook()[pri:0, instance:test.API_Post_Request@6107227e]" started-at="2023-01-01T23:23:37 TRT" name="createBook" finished-at="2023-01-01T23:23:37 TRT" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBook -->
+      </class> <!-- test.API_Post_Request -->
+      <class name="test.API_Delete_Request">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.API_Delete_Request@17c386de]" started-at="2023-01-01T23:23:14 TRT" name="setUp" finished-at="2023-01-01T23:23:15 TRT" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteBook()[pri:0, instance:test.API_Delete_Request@17c386de]" started-at="2023-01-01T23:23:15 TRT" name="deleteBook" finished-at="2023-01-01T23:23:17 TRT" duration-ms="2286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBook -->
+      </class> <!-- test.API_Delete_Request -->
+      <class name="test.API_Patch_Request">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.API_Patch_Request@5db45159]" started-at="2023-01-01T23:23:35 TRT" name="setUp" finished-at="2023-01-01T23:23:35 TRT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="updateBookWithPatch()[pri:0, instance:test.API_Patch_Request@5db45159]" started-at="2023-01-01T23:23:35 TRT" name="updateBookWithPatch" finished-at="2023-01-01T23:23:37 TRT" duration-ms="1845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBookWithPatch -->
+      </class> <!-- test.API_Patch_Request -->
+      <class name="test.API_Get_Request">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.API_Get_Request@2b6856dd]" started-at="2023-01-01T23:23:17 TRT" name="setUp" finished-at="2023-01-01T23:23:17 TRT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getBook()[pri:0, instance:test.API_Get_Request@2b6856dd]" started-at="2023-01-01T23:23:17 TRT" name="getBook" finished-at="2023-01-01T23:23:20 TRT" duration-ms="2305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBook -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.API_Get_Request@2b6856dd]" started-at="2023-01-01T23:23:20 TRT" name="setUp" finished-at="2023-01-01T23:23:20 TRT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getBooks()[pri:0, instance:test.API_Get_Request@2b6856dd]" started-at="2023-01-01T23:23:20 TRT" name="getBooks" finished-at="2023-01-01T23:23:35 TRT" duration-ms="14901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBooks -->
+      </class> <!-- test.API_Get_Request -->
+      <class name="test.API_Put_Request">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.API_Put_Request@7c417213]" started-at="2023-01-01T23:23:37 TRT" name="setUp" finished-at="2023-01-01T23:23:37 TRT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="updateBook()[pri:0, instance:test.API_Put_Request@7c417213]" started-at="2023-01-01T23:23:37 TRT" name="updateBook" finished-at="2023-01-01T23:23:39 TRT" duration-ms="1569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBook -->
+      </class> <!-- test.API_Put_Request -->
+    </test> <!-- C:/Users/Bilal/IdeaProjects/Restful-Booker_With_Rest_Assured/src/test/java/test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

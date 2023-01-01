@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Bilal/IdeaProjects/Restful-Booker_With_Rest_Assured/src/test/java/test">
+        <classes>
+            <class name="test.API_Delete_Request">
+                <methods>
+                    <include name="deleteBook"/>
+                </methods>
+            </class>
+            <class name="test.API_Get_Request">
+                <methods>
+                    <include name="getBook"/>
+                    <include name="getBooks"/>
+                </methods>
+            </class>
+            <class name="test.API_Patch_Request">
+                <methods>
+                    <include name="updateBookWithPatch"/>
+                </methods>
+            </class>
+            <class name="test.API_Post_Request">
+                <methods>
+                    <include name="createBook"/>
+                </methods>
+            </class>
+            <class name="test.API_Put_Request">
+                <methods>
+                    <include name="updateBook"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
