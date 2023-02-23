@@ -45,6 +45,7 @@ Clone the project
 
 ```bash
   git clone https://github.com/bilallgunaydin/Restful-Booker_With_Rest_Assured.git
+  Run "testng.xml" file.
 ```
 
 ## Feedback
