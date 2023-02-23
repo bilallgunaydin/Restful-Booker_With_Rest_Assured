@@ -22,9 +22,9 @@ I made a project with Api endpoints on https://restful-booker.herokuapp.com/apid
 
 ![GSON](https://user-images.githubusercontent.com/21973124/221035561-e79250d1-92e3-4ed8-8ec4-ed69f54e8dae.png) **GSON**: Gson is an open source library in the Java language and was designed to facilitate the use of the JSON (JavaScript Object Notation) data format. This library automatically converts JSON data to Java objects (deserialize) and converts Java objects to JSON data (serialize).
 
-![Lombok](https://user-images.githubusercontent.com/21973124/221035836-63ddf1db-e67b-48fb-95b2-30a8970a6657.png) **Lombok**: Lombok is an open source library in the Java language and was designed to increase regularity and readability in your Java code. This library aims to reduce the duplication of code blocks during the creation of Java objects, which often degrades readability.
+![Lombok](https://user-images.githubusercontent.com/21973124/221037920-d9e28e2c-ff9c-4de1-aad2-83859aefc20a.png) **Lombok**: Lombok is an open source library in the Java language and was designed to increase regularity and readability in your Java code. This library aims to reduce the duplication of code blocks during the creation of Java objects, which often degrades readability.
 
-![JavaFaker](https://user-images.githubusercontent.com/21973124/221037445-c0258e7b-754f-4bb7-b1ad-6d844f4ddff2.png) **JavaFaker**: JavaFaker is an open source library in Java language and has the ability to generate random data. This library can be used to generate test data and can generate many different types of data, for example: names, addresses, phone numbers, email addresses, dates, numbers and more.
+![JavaPaker](https://user-images.githubusercontent.com/21973124/221038338-726f9031-6687-46eb-b513-60d87317ba7e.png) **JavaFaker**: JavaFaker is an open source library in Java language and has the ability to generate random data. This library can be used to generate test data and can generate many different types of data, for example: names, addresses, phone numbers, email addresses, dates, numbers and more.
 
 **Maven Surefire Plugin** : Maven Surefire Plugin is a plugin for an open source configuration and management tool called Apache Maven and is used to run tests written in the Java language. This plugin runs the tests specified in the configuration of the Maven project and reports the test results.
 
